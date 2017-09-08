@@ -2,6 +2,6 @@
 
 int main(int argc, char** argv) { 
 	
-	printf("Alex Richardson");
+	printf("Alex Richardson and James White\n");
 	return 0;
 }
